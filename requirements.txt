@@ -1,0 +1,14 @@
+altair>=6.2.2
+duckdb>=1.5.5
+duckdb-cli>=1.5.5
+ipykernel>=7.3.0
+ipywidgets>=8.1.8
+matplotlib>=3.11.1
+pandas>=3.0.5
+polars>=1.43.2
+pyarrow>=25.0.0
+requests>=2.34.2
+seaborn>=0.13.2
+tqdm>=4.70.0
+yq>=4.1.2
+zstandard>=0.25.0
