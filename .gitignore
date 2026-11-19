@@ -1,0 +1,9 @@
+data
+*.parquet
+*.duckdb
+.ipynb_checkpoints
+flights.zip
+flights.csv
+airlines.csv
+airports.csv
+arxiv.zip
